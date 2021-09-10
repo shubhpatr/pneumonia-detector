@@ -1,0 +1,1 @@
+{"id":"67e8338d-8e7b-4b95-8098-71ee698f71c1","space":7322,"runtime":"python3.7","name":"pyproject","path":"2yzehr","project":"c01fxr7o","account":"144798365827","region":"ap-southeast-1","deps":["fastapi==0.66.0"],"envs":null,"public":true,"log_level":"debug","cron":""}
